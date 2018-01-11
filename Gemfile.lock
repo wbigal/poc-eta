@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    geokit (1.11.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  geokit
+
+BUNDLED WITH
+   1.16.1
